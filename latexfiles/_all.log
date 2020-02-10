@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  9 FEB 2020 23:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 FEB 2020 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -805,7 +805,7 @@ Package gensymb Warning: Not defining \micro.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 22.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 19.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) (./_all.toc)
@@ -876,47 +876,138 @@ Package pdftex.def Info: diagram_radhum.png  used on input line 28.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./3_1simp_occup.tex) (./3_2simp_envi.tex) (./4_2_Subjective.tex)
-(./4_1_Objective.tex) (./5_conclusions.tex) (./_all.bbl
+) (./3_1simp_occup.tex
+<heat62.png, id=176, 1095.09125pt x 485.815pt>
+File: heat62.png Graphic file (type png)
+<use heat62.png>
+Package pdftex.def Info: heat62.png  used on input line 8.
+(pdftex.def)             Requested size: 333.88626pt x 148.12517pt.
+<heat68.png, id=177, 1096.095pt x 478.78876pt>
+File: heat68.png Graphic file (type png)
+<use heat68.png>
+Package pdftex.def Info: heat68.png  used on input line 9.
+(pdftex.def)             Requested size: 333.88626pt x 145.84406pt.
+<heat74.png, id=178, 1094.0875pt x 475.7775pt>
+File: heat74.png Graphic file (type png)
+<use heat74.png>
+Package pdftex.def Info: heat74.png  used on input line 10.
+(pdftex.def)             Requested size: 333.88626pt x 145.1954pt.
+<heat80.png, id=179, 1096.095pt x 479.7925pt>
+File: heat80.png Graphic file (type png)
+<use heat80.png>
+Package pdftex.def Info: heat80.png  used on input line 11.
+(pdftex.def)             Requested size: 333.88626pt x 146.1498pt.
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.13 	\end{figure}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{table.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.13 	\end{figure}
+                   <./tbd_h.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.16 
+      <./diagram_radhum.png>] [11pdfTeX warning (ext4): destination with the sa
+me identifier (name{figure.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.18 
+      <./heat62.png> <./heat68.png> <./heat74.png> <./heat80.png>]
+<boxheat.png, id=201, 722.7pt x 433.62pt>
+File: boxheat.png Graphic file (type png)
+<use boxheat.png>
+Package pdftex.def Info: boxheat.png  used on input line 26.
+(pdftex.def)             Requested size: 381.58742pt x 228.95074pt.
+<heatsave.png, id=204, 1084.05pt x 505.89pt>
+File: heatsave.png Graphic file (type png)
+<use heatsave.png>
+Package pdftex.def Info: heatsave.png  used on input line 34.
+(pdftex.def)             Requested size: 381.58742pt x 178.07536pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [12pdfTeX warning (ext4): destination with the same identifier (name{figure.7
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.33     \subsection
+                    {Cooling scenario and resulting Energy Savings} <./boxheat.
+png>] (./3_2simp_envi.tex
+<coolheat.png, id=213, 722.7pt x 433.62pt>
+File: coolheat.png Graphic file (type png)
+<use coolheat.png>
+Package pdftex.def Info: coolheat.png  used on input line 5.
+(pdftex.def)             Requested size: 381.58742pt x 228.95074pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<coolsave.png, id=215, 1084.05pt x 505.89pt>
+File: coolsave.png Graphic file (type png)
+<use coolsave.png>
+Package pdftex.def Info: coolsave.png  used on input line 12.
+(pdftex.def)             Requested size: 381.58742pt x 178.07536pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.19 
+      <./heatsave.png>]) [14pdfTeX warning (ext4): destination with the same id
+entifier (name{figure.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.35 \section
+             {Discussions and Conclusions}pdfTeX warning (ext4): destination wi
+th the same identifier (name{figure.10}) has been already used, duplicate ignor
+ed
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.35 \section
+             {Discussions and Conclusions} <./coolheat.png> <./coolsave.png>]
+(./4_2_Subjective.tex) (./4_1_Objective.tex) (./5_conclusions.tex) (./_all.bbl
+[15]
 
 Package natbib Warning: Empty `thebibliography' environment on input line 8.
 
-) [9pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.53 \end{document}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{table.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.53 \end{document}
-                    <./tbd_h.png>] [10pdfTeX warning (ext4): destination with t
-he same identifier (name{figure.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.53 \end{document}
-                    <./diagram_radhum.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+) [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  (./_all.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
 Package rerunfilecheck Info: File `_all.out' has not changed.
-(rerunfilecheck)             Checksum: D2FB95BB1E12E040DDA15B09C82D964D;1131.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
+(rerunfilecheck)             Checksum: 3BEF16303343B12C4F9411ECDA08A53C;1121.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 18366 strings out of 492649
- 336902 string characters out of 6129622
- 416094 words of memory out of 5000000
- 21829 multiletter control sequences out of 15000+600000
+ 18422 strings out of 492649
+ 337636 string characters out of 6129622
+ 416708 words of memory out of 5000000
+ 21866 multiletter control sequences out of 15000+600000
  14034 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,68p,1823b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,68p,1823b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -936,10 +1027,10 @@ exmf-dist/fonts/type1/public/cm-super/sfti0600.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2018/texmf
 -dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2018/texmf-d
 ist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on _all.pdf (10 pages, 1592383 bytes).
+Output written on _all.pdf (16 pages, 2549630 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 40 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 248 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

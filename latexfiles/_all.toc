@@ -8,9 +8,9 @@
 \contentsline {section}{\numberline {3}Results}{9}{section.3}
 \contentsline {subsection}{\numberline {3.1}Heating scenario and resulting RHs}{9}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Relative Humidity}{9}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Energy Savings}{10}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Cooling scenario and resulting Energy Savings}{10}{subsection.3.2}
-\contentsline {section}{\numberline {4}Latest Efforts in addressing the absence of occupant in OCC}{10}{section.4}
-\contentsline {subsection}{\numberline {4.1}Subjective feedback}{10}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Objective measurement}{10}{subsection.4.2}
-\contentsline {section}{\numberline {5}Conclusion}{10}{section.5}
+\contentsline {subsubsection}{\numberline {3.1.2}Energy Savings}{12}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Cooling scenario and resulting Energy Savings}{13}{subsection.3.2}
+\contentsline {section}{\numberline {4}Discussions and Conclusions}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}Relative Humidity improvements}{15}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Extra energy savings and demands}{15}{subsection.4.2}
+\contentsline {section}{\numberline {5}Conclusion}{15}{section.5}
