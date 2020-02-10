@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  9 FEB 2020 09:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  9 FEB 2020 23:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**all.tex
-(./all.tex
+**_all.tex
+(./_all.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/elsarticle/elsarticle.cls
@@ -79,7 +79,7 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@enLab=\toks16
 \@sep=\skip43
 \@@sep=\skip44
- (./all.spl)
+ (./_all.spl)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
@@ -88,7 +88,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count94
 )
 \splwrite=\write3
-\openout3 = `all.spl'.
+\openout3 = `_all.spl'.
 
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lineno/lineno.sty
@@ -692,8 +692,8 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (./all.aux)
-\openout1 = `all.aux'.
+)) (./_all.aux)
+\openout1 = `_all.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -755,9 +755,9 @@ LaTeX Info: Redefining \ref on input line 8.
 LaTeX Info: Redefining \pageref on input line 8.
 LaTeX Info: Redefining \nameref on input line 8.
 
-(./all.out) (./all.out)
+(./_all.out) (./_all.out)
 \@outlinefile=\write5
-\openout5 = `all.out'.
+\openout5 = `_all.out'.
 
  ABD: EveryShipout initializing macros
 LaTeX Info: Redefining \celsius on input line 8.
@@ -805,12 +805,12 @@ Package gensymb Warning: Not defining \micro.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 23.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 22.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) (./all.toc)
+) (./_all.toc)
 \tf@toc=\write6
-\openout6 = `all.toc'.
+\openout6 = `_all.toc'.
 
 
 (./1intro.tex [1
@@ -818,7 +818,7 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) (.
 /2_1Exi_indoor.tex) (./2_2Exi_outdoor.tex [3]
-<coolingcases.png, id=105, 722.7pt x 505.89pt>
+<coolingcases.png, id=115, 722.7pt x 505.89pt>
 File: coolingcases.png Graphic file (type png)
 <use coolingcases.png>
 Package pdftex.def Info: coolingcases.png  used on input line 12.
@@ -832,72 +832,91 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.37     \end{equation}
-                        <./coolingcases.png>]
-<heatingcases.png, id=136, 722.7pt x 505.89pt>
+l.34 
+      <./coolingcases.png>]
+<heatingcases.png, id=146, 722.7pt x 505.89pt>
 File: heatingcases.png Graphic file (type png)
 <use heatingcases.png>
-Package pdftex.def Info: heatingcases.png  used on input line 49.
+Package pdftex.def Info: heatingcases.png  used on input line 47.
 (pdftex.def)             Requested size: 476.98247pt x 333.88841pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6]) (./2_3DataCollection.tex
-<stations.png, id=144, 1445.4pt x 722.7pt>
+[6]) (./2_3DataCollection.tex [7pdfTeX warning (ext4): destination with the sam
+e identifier (name{figure.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2 
+     <./heatingcases.png>]
+<stations.png, id=160, 1445.4pt x 722.7pt>
 File: stations.png Graphic file (type png)
 <use stations.png>
 Package pdftex.def Info: stations.png  used on input line 5.
 (pdftex.def)             Requested size: 476.98247pt x 238.49173pt.
- [7pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.7 \end{figure}
-                 <./heatingcases.png>]
-<tbd_h.png, id=152, 1084.05pt x 433.62pt>
+<tbd_h.png, id=162, 1084.05pt x 433.62pt>
 File: tbd_h.png Graphic file (type png)
 <use tbd_h.png>
 Package pdftex.def Info: tbd_h.png  used on input line 14.
 (pdftex.def)             Requested size: 476.98247pt x 190.79338pt.
-) (./3_1simp_occup.tex)
-(./3_2simp_envi.tex) (./4_2_Subjective.tex) (./4_1_Objective.tex)
-(./5_conclusions.tex) (./all.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-) [8pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.54 \end{document}
-                    <./stations.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.54 \end{document}
-                    <./tbd_h.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
- (./all.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
-Package rerunfilecheck Info: File `all.out' has not changed.
-(rerunfilecheck)             Checksum: 183D528F50F028FC5925CEEF66A0EFD4;941.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
+l.26 
+      <./stations.png>]
+<diagram_radhum.png, id=173, 966.4908pt x 651.3936pt>
+File: diagram_radhum.png Graphic file (type png)
+<use diagram_radhum.png>
+Package pdftex.def Info: diagram_radhum.png  used on input line 28.
+(pdftex.def)             Requested size: 476.98247pt x 321.48167pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./3_1simp_occup.tex) (./3_2simp_envi.tex) (./4_2_Subjective.tex)
+(./4_1_Objective.tex) (./5_conclusions.tex) (./_all.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 8.
+
+) [9pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.53 \end{document}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{table.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.53 \end{document}
+                    <./tbd_h.png>] [10pdfTeX warning (ext4): destination with t
+he same identifier (name{figure.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.53 \end{document}
+                    <./diagram_radhum.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+ (./_all.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
+Package rerunfilecheck Info: File `_all.out' has not changed.
+(rerunfilecheck)             Checksum: D2FB95BB1E12E040DDA15B09C82D964D;1131.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
  ) 
 Here is how much of TeX's memory you used:
- 18351 strings out of 492649
- 336634 string characters out of 6129622
- 412870 words of memory out of 5000000
- 21820 multiletter control sequences out of 15000+600000
+ 18366 strings out of 492649
+ 336902 string characters out of 6129622
+ 416094 words of memory out of 5000000
+ 21829 multiletter control sequences out of 15000+600000
  14034 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,68p,1822b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,68p,1823b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -917,10 +936,10 @@ exmf-dist/fonts/type1/public/cm-super/sfti0600.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2018/texmf
 -dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2018/texmf-d
 ist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on all.pdf (9 pages, 1409944 bytes).
+Output written on _all.pdf (10 pages, 1592383 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 257 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
