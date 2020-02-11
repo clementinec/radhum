@@ -255,8 +255,6 @@ OUTPUT _all.toc
 INPUT 1intro.tex
 INPUT 1intro.tex
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT 2_1Exi_indoor.tex
-INPUT 2_1Exi_indoor.tex
 INPUT 2_2Exi_outdoor.tex
 INPUT 2_2Exi_outdoor.tex
 INPUT coolingcases.png
