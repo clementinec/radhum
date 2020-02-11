@@ -2,47 +2,83 @@ This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: _all.aux
 The style file: elsarticle-num.bst
-I found no \citation commands---while reading file _all.aux
 Database file #1: top.bib
-You've used 0 entries,
+Warning--entry type for "huang_climatic_1986" isn't style-file defined
+--line 102 of file top.bib
+Warning--entry type for "ansi/ashrae_standard_2017" isn't style-file defined
+--line 5795 of file top.bib
+Warning--empty journal in balaras_european_2007
+Warning--empty year in balaras_european_2007
+Warning--empty journal in stetiu_energy_1999
+Warning--empty year in stetiu_energy_1999
+Warning--empty year in moe_thermally_2010
+Warning--empty journal in karmann_thermal_2017
+Warning--empty year in karmann_thermal_2017
+Warning--empty journal in fabrizio_numerical_2012
+Warning--empty year in fabrizio_numerical_2012
+Warning--empty year in rentel-gomez_decoupled_2001
+Warning--empty journal in staniforth_appropriate_1994
+Warning--empty year in staniforth_appropriate_1994
+Warning--empty journal in han_experimental_2011
+Warning--empty year in han_experimental_2011
+Warning--empty journal in henderson_energy_2014
+Warning--empty year in henderson_energy_2014
+Warning--empty journal in alahmer_effect_2011
+Warning--empty year in alahmer_effect_2011
+Warning--empty year in american_society_of_heating_refrigerating_and_air-conditioning_engineers_ashrae_1972
+Warning--empty journal in pasgianos_nonlinear_2003
+Warning--empty year in pasgianos_nonlinear_2003
+Warning--empty journal in american_society_of_heating_2007_2007
+Warning--empty year in american_society_of_heating_2007_2007
+Warning--empty journal in hoyt_extending_2015
+Warning--empty year in hoyt_extending_2015
+Warning--empty journal in krese_incorporation_2011
+Warning--empty year in krese_incorporation_2011
+Warning--empty journal in krese_analysis_2012
+Warning--empty year in krese_analysis_2012
+Warning--empty journal in rosiek_reducing_2013
+Warning--empty year in rosiek_reducing_2013
+Warning--empty journal in fonseca_daily_2020
+Warning--empty year in fonseca_daily_2020
+You've used 21 entries,
             2937 wiz_defined-function locations,
-            668 strings with 5070 characters,
-and the built_in function-call counts, 44 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 23
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            805 strings with 10869 characters,
+and the built_in function-call counts, 6986 in all, are:
+= -- 687
+> -- 195
+< -- 1
++ -- 79
+- -- 58
+* -- 629
+:= -- 937
+add.period$ -- 36
+call.type$ -- 21
+change.case$ -- 20
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 54
+duplicate$ -- 210
+empty$ -- 757
+format.name$ -- 75
+if$ -- 1731
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 8
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 102
+num.names$ -- 21
+pop$ -- 155
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1
+skip$ -- 349
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 455
+swap$ -- 58
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 7
-(There was 1 error message)
+warning$ -- 33
+while$ -- 55
+width$ -- 23
+write$ -- 201
+(There were 35 warnings)

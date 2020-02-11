@@ -4,13 +4,13 @@
 \contentsline {subsection}{\numberline {2.2}Cooling, Heating and Enthalpy Degree Days}{3}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Cooling Processes}{4}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}Heating Processes}{6}{subsubsection.2.2.2}
-\contentsline {subsection}{\numberline {2.3}Data Collection and Processing}{7}{subsection.2.3}
-\contentsline {section}{\numberline {3}Results}{9}{section.3}
-\contentsline {subsection}{\numberline {3.1}Heating scenario and resulting RHs}{9}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Relative Humidity}{9}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {2.3}Data Collection and Processing}{8}{subsection.2.3}
+\contentsline {section}{\numberline {3}Results}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Heating scenario and resulting RHs}{10}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Relative Humidity}{10}{subsubsection.3.1.1}
 \contentsline {subsubsection}{\numberline {3.1.2}Energy Savings}{12}{subsubsection.3.1.2}
 \contentsline {subsection}{\numberline {3.2}Cooling scenario and resulting Energy Savings}{13}{subsection.3.2}
 \contentsline {section}{\numberline {4}Discussions and Conclusions}{15}{section.4}
 \contentsline {subsection}{\numberline {4.1}Relative Humidity improvements}{15}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Extra energy savings and demands}{15}{subsection.4.2}
-\contentsline {section}{\numberline {5}Conclusion}{15}{section.5}
+\contentsline {subsection}{\numberline {4.2}Extra energy savings and demands}{16}{subsection.4.2}
+\contentsline {section}{\numberline {5}Conclusion}{16}{section.5}

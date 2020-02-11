@@ -1,8 +1,175 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{balaras_european_2007}
+C.~A. Balaras, A.~G. Gaglia, E.~Georgopoulou, S.~Mirasgedis, Y.~Sarafidis,
+  D.~P. Lalas,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132305004671}{European
+  residential buildings and empirical assessment of the hellenic building
+  stock, energy consumption, emissions and potential energy savings} 42~(3)
+  1298--1314.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2005.11.001}
+  {\path{doi:10.1016/j.buildenv.2005.11.001}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132305004671}
+
+\bibitem{stetiu_energy_1999}
+C.~Stetiu,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778898000802}{Energy
+  and peak power savings potential of radiant cooling systems in {US}
+  commercial buildings} 30~(2)  127--138.
+\newblock \href {http://dx.doi.org/10.1016/S0378-7788(98)00080-2}
+  {\path{doi:10.1016/S0378-7788(98)00080-2}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778898000802}
+
+\bibitem{moe_thermally_2010}
+K.~Moe, Thermally Active Surfaces in Architecture, Princeton Architectural
+  Press.
+
+\bibitem{karmann_thermal_2017}
+C.~Karmann, S.~Schiavon, F.~Bauman,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132316304218}{Thermal
+  comfort in buildings using radiant vs. all-air systems: A critical literature
+  review} 111  123--131.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2016.10.020}
+  {\path{doi:10.1016/j.buildenv.2016.10.020}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132316304218}
+
+\bibitem{fabrizio_numerical_2012}
+E.~Fabrizio, S.~P. Corgnati, F.~Causone, M.~Filippi,
+  \href{https://www.tandfonline.com/doi/abs/10.1080/10789669.2011.578700}{Numerical
+  comparison between energy and comfort performances of radiant heating and
+  cooling systems versus air systems} 18~(4)  692--708.
+\newblock \href {http://dx.doi.org/10.1080/10789669.2011.578700}
+  {\path{doi:10.1080/10789669.2011.578700}}.
+\newline\urlprefix\url{https://www.tandfonline.com/doi/abs/10.1080/10789669.2011.578700}
+
+\bibitem{rentel-gomez_decoupled_2001}
+C.~Rentel-Gomez, M.~Velez-Reyes, Decoupled control of temperature and relative
+  humidity using a variable-air-volume {HVAC} system and non-interacting
+  control, in: Proceedings of the 2001 {IEEE} International Conference on
+  Control Applications ({CCA}'01) (Cat. No.01CH37204), pp. 1147--1151, {ISSN}:
+  null.
+\newblock \href {http://dx.doi.org/10.1109/CCA.2001.974026}
+  {\path{doi:10.1109/CCA.2001.974026}}.
+
+\bibitem{staniforth_appropriate_1994}
+S.~Staniforth, B.~Hayes, L.~Bullock,
+  \href{https://doi.org/10.1179/sic.1994.39.Supplement-2.123}{Appropriate
+  technologies for relative humidity control for museum collections housed in
+  historic buildings} 39  123--128.
+\newblock \href {http://dx.doi.org/10.1179/sic.1994.39.Supplement-2.123}
+  {\path{doi:10.1179/sic.1994.39.Supplement-2.123}}.
+\newline\urlprefix\url{https://doi.org/10.1179/sic.1994.39.Supplement-2.123}
+
+\bibitem{han_experimental_2011}
+X.~Han, X.~Zhang,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778811004312}{Experimental
+  study on a residential temperature–humidity separate control
+  air-conditioner} 43~(12)  3584--3591.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2011.09.029}
+  {\path{doi:10.1016/j.enbuild.2011.09.029}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778811004312}
+
+\bibitem{henderson_energy_2014}
+H.~I. Henderson, A.~Rudd,
+  \href{https://search.proquest.com/docview/1537065347?pq-origsite=gscholar}{Energy
+  efficiency and cost assessment of humidity control options for residential
+  buildings - {ProQuest}} 120  163--178.
+\newline\urlprefix\url{https://search.proquest.com/docview/1537065347?pq-origsite=gscholar}
+
+\bibitem{alahmer_effect_2011}
+A.~Alahmer, M.~A. Omar, A.~Mayyas, S.~Dongri,
+  \href{http://www.sciencedirect.com/science/article/pii/S1359431111002341}{Effect
+  of relative humidity and temperature control on in-cabin thermal comfort
+  state: Thermodynamic and psychometric analyses} 31~(14)  2636--2644.
+\newblock \href {http://dx.doi.org/10.1016/j.applthermaleng.2011.04.033}
+  {\path{doi:10.1016/j.applthermaleng.2011.04.033}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1359431111002341}
+
+\bibitem{ansi/ashrae_standard_2017}
+{ANSI/ASHRAE},
+  \href{https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy}{Standard
+  55-2017, thermal environmental conditions for human occupancy}.
+\newline\urlprefix\url{https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy}
+
+\bibitem{american_society_of_heating_refrigerating_and_air-conditioning_engineers_ashrae_1972}
+{American Society of Heating, Refrigerating and Air-Conditioning Engineers},
+  {ASHRAE} handbook of fundamentals: an instrument of service prepared for the
+  profession containing reference material pertaining to fundamental theory and
+  basic data ..., {ASHRAE}, google-Books-{ID}: {VKFSAAAAMAAJ}.
+
+\bibitem{pasgianos_nonlinear_2003}
+G.~D. Pasgianos, K.~G. Arvanitis, P.~Polycarpou, N.~Sigrimis,
+  \href{http://www.sciencedirect.com/science/article/pii/S0168169903000188}{A
+  nonlinear feedback technique for greenhouse environmental control} 40~(1)
+  153--177.
+\newblock \href {http://dx.doi.org/10.1016/S0168-1699(03)00018-8}
+  {\path{doi:10.1016/S0168-1699(03)00018-8}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168169903000188}
+
+\bibitem{american_society_of_heating_2007_2007}
+R.~American Society~of Heating, I.~Air-Conditioning~Engineers,
+  \href{http://www.4shared.com/get/TNBVAZYz/2009_ashrae_handbook_-_fundame.html?simpleLogin=true&startDownload=true}{2007
+  {ASHRAE} {HANDBOOK} {HVAC} applications}  1--926.
+\newline\urlprefix\url{http://www.4shared.com/get/TNBVAZYz/2009_ashrae_handbook_-_fundame.html?simpleLogin=true&startDownload=true}
+
+\bibitem{sunwoo_physiological_2006-1}
+Y.~Sunwoo, C.~Chou, J.~Takeshita, M.~Murakami, Y.~Tochihara,
+  \href{http://joi.jlc.jst.go.jp/JST.JSTAGE/jpa2/25.229?from=CrossRef}{Physiological
+  and subjective responses to low relative humidity in young and elderly men},
+  Journal of PHYSIOLOGICAL ANTHROPOLOGY 25~(3) (2006) 229--238.
+\newblock \href {http://dx.doi.org/10.2114/jpa2.25.229}
+  {\path{doi:10.2114/jpa2.25.229}}.
+\newline\urlprefix\url{http://joi.jlc.jst.go.jp/JST.JSTAGE/jpa2/25.229?from=CrossRef}
+
+\bibitem{hoyt_extending_2015}
+T.~Hoyt, E.~Arens, H.~Zhang,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0360132314003023}{Extending
+  air temperature setpoints: Simulated energy savings and design considerations
+  for new and retrofit buildings} 88  89--96.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2014.09.010}
+  {\path{doi:10.1016/j.buildenv.2014.09.010}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0360132314003023}
+
+\bibitem{krese_incorporation_2011}
+G.~Krese, M.~Prek, V.~Butala,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778811001514}{Incorporation
+  of latent loads into the cooling degree days concept} 43~(7)  1757--1764.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2011.03.042}
+  {\path{doi:10.1016/j.enbuild.2011.03.042}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778811001514}
+
+\bibitem{huang_climatic_1986}
+Y.~J. Huang, R.~Ritschard, J.~Bull, L.~Chang, Climatic indicators for
+  estimating residential heating and cooling loads.
+
+\bibitem{krese_analysis_2012}
+G.~Krese, M.~Prek, V.~Butala, Analysis of building electric energy consumption
+  data using an improved cooling degree day method 58~(2)  107--114.
+\newblock \href {http://dx.doi.org/10.5545/sv-jme.2011.160}
+  {\path{doi:10.5545/sv-jme.2011.160}}.
+
+\bibitem{rosiek_reducing_2013}
+S.~Rosiek, F.~J. Batlles,
+  \href{http://www.sciencedirect.com/science/article/pii/S0196890413005360}{Reducing
+  a solar-assisted air-conditioning system’s energy consumption by applying
+  real-time occupancy sensors and chilled water storage tanks throughout the
+  summer: A case study} 76  1029--1042.
+\newblock \href {http://dx.doi.org/10.1016/j.enconman.2013.08.060}
+  {\path{doi:10.1016/j.enconman.2013.08.060}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0196890413005360}
+
+\bibitem{fonseca_daily_2020}
+J.~Fonseca, A.~Schlueter,
+  \href{https://linkinghub.elsevier.com/retrieve/pii/S0306261919321464}{Daily
+  enthalpy gradients and the effects of climate change on the thermal energy
+  demand of buildings in the united states} 262  114458.
+\newblock \href {http://dx.doi.org/10.1016/j.apenergy.2019.114458}
+  {\path{doi:10.1016/j.apenergy.2019.114458}}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0306261919321464}
 
 \end{thebibliography}
