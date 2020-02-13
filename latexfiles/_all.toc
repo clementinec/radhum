@@ -1,11 +1,11 @@
-\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
 \contentsline {section}{\numberline {2}Methodology}{3}{section.2}
 \contentsline {subsection}{\numberline {2.1}Cooling, Heating and Enthalpy Degree Days}{3}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Cooling Processes}{4}{subsubsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.2}Heating Processes}{6}{subsubsection.2.1.2}
 \contentsline {subsection}{\numberline {2.2}Data Collection and Processing}{7}{subsection.2.2}
-\contentsline {section}{\numberline {3}Results}{8}{section.3}
-\contentsline {subsection}{\numberline {3.1}Heating scenario and resulting RHs}{8}{subsection.3.1}
+\contentsline {section}{\numberline {3}Results}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Heating scenario and resulting RHs}{9}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Relative Humidity}{10}{subsubsection.3.1.1}
 \contentsline {subsubsection}{\numberline {3.1.2}Energy Savings}{12}{subsubsection.3.1.2}
 \contentsline {subsection}{\numberline {3.2}Cooling scenario and resulting Energy Savings}{13}{subsection.3.2}

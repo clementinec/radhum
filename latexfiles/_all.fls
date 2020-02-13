@@ -251,10 +251,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecti0600.tfm
 INPUT _all.toc
 INPUT _all.toc
+INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT _all.toc
 INPUT 1intro.tex
 INPUT 1intro.tex
-INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT 2_2Exi_outdoor.tex
 INPUT 2_2Exi_outdoor.tex
 INPUT coolingcases.png

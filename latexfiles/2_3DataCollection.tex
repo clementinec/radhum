@@ -1,3 +1,4 @@
+%!TEX root = _all.tex
 As we are interested in understanding the potential energy savings and RH improvement across continental US, we need the weather data collected from major cities across the continent with resolution smaller than every hour. The ISD-lite dataset made available by NOAA (National Oceanographic Association of America) provides air temperature, relative humidity and geographic location at weather stations across major city centers and airports across continental US. This data is publicly available on NOAA’s ftp server. We downloaded a total of 13,800 files for the monitored weather in 2018 for the purpose of this analysis. Since the climate zones, as we are plotting in Figure~\ref{fg:stations}. 
 
 \begin{figure}[h!]
@@ -15,10 +16,11 @@ Upon scraping the NOAA ftp server for the 2018 weather files, we used the pandas
 \caption{ Processed Outdoor Dry-bulb temperature against outdoor specific enthalpy for the weather station in Station ID.}\label{fg:sampleh}
 \end{figure}
 
+It's also important for us to stress how this might be affecting the productiviy 
 
 We will primarily divide our analysis into two parts. The first part focuses on the energy savings of the cooling scenario and the RH improvements for the average heating/cooling condition for the weather stations. We will plot this as heat maps that can be generated from the weather files analyzed. 
-%Heating, RH improvements (bad to good) very visual, can use previous plots until we have new ones generated. We're only running this as preliminary improved analysis. Do ew mark out TODOs?
-For the heating scenario, we estimate how changing the set point may result in improvements in the RH through a spatial plot of four cases of set points and their resulting RHs across all the weather station we identified. This allows us to estimate the resulting RH distribution from the weather data we collected throughout the continental US. We created an illustration as shown in Figure~\ref{fg:process} to explain how we processed the data, and how it's connected to different levels of analysis.. %Spatial comparison of four temperature states. Figure needs updating.
+%Heating, RH improvements (bad to good) very visual, can use previous plots until we have new ones generated. We're only running this as preliminary improved analysis. 
+For the heating scenario, we estimate how changing the set point may result in improvements in the RH through a spatial plot of four cases of set points and their resulting RHs across all the weather station we identified. This allows us to estimate the resulting RH distribution from the weather data NOAA collected throughout the continental US. We created an illustration as shown in Figure~\ref{fg:process} to explain how we processed the data, and how it's connected to different levels of analysis. Simply put, the RH heat maps were generated from the average condition of the cooling season across data collected from all weather stations in continental US, while the energy implications were only calculated for the selected cities for both the heating and cooling scenarios. %Spatial comparison of four temperature states. Figure needs updating.
 
 Operating under the second stage of hypothesis where there are additional humidifiers for home units, we also estimate the potential energy savings in the latent loads that no longer has to be satisfied by comparing the room air enthalpies. These energy savings can be estimated for the daily average to generate an overall year-round enthalpy comparison and categorized into binned plots for both the heating and the subsequent cooling cases. 
 %Cooling, energy savings, percentage? For different climates? Bin the results? You wouldn't be able to read it... energy reduction maps. 
